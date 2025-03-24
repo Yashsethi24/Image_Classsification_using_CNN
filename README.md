@@ -63,5 +63,3 @@ To run this project locally, follow these steps:
 🔗 [GitHub Profile](https://github.com/Yashsethi24/)
 ```
 
-
-Let me know if you want any modifications before adding it to GitHub! 🚀
